@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Akshay
-- 🌱 I am currently studying in srinivas institute of technology
+- 🌱 I am currently studying at srinivas institute of technology
 -  i used to upload some simple projects
 -  languages-c,python,ruby,Html,Hdl.
 -  learing- javascript,ethical hacking. 
