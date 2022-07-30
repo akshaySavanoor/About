@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Akshay
 - 🌱 I am currently studying at srinivas institute of technology
--  i used to upload some simple projects
 -  languages-c,python,ruby,Html,Hdl.
--  learing- javascript,ethical hacking. 
+-  learing- javascript,ethical hacking, react web development. . 
 -  if you need any information about 
         Sqlinjection(manual/automated), 
         Forced Browsing, 
@@ -17,8 +16,9 @@
         Fuzzing etc. 
         or any query regarding my projects  
 - contact me: akshaysavanoor@gmail.com
+Article's - [x]https://www.geeksforgeeks.org/remote-access-in-ethical-hacking
+            [x]https://www.geeksforgeeks.org/what-are-injection-flaws
 
-<h3>ONLY FOR EDUCATIONAL PURPOSE</h3>
 <!---
 WIZARD00007/WIZARD00007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
