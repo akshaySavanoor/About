@@ -16,8 +16,9 @@
         Fuzzing etc. 
         or any query regarding my projects  
 - contact me: akshaysavanoor@gmail.com
-- Article's & Python libraries - Remote access https://www.geeksforgeeks.org/remote-access-in-ethical-hacking
-   - Injection flaws https://www.geeksforgeeks.org/what-are-injection-flaws
+- Article's & Python libraries 
+   -  Remote access  : https://www.geeksforgeeks.org/remote-access-in-ethical-hacking
+   - Injection flaws : https://www.geeksforgeeks.org/what-are-injection-flaws
    - https://pypi.org/project/PythonCrypto/
    - https://pypi.org/project/WizzPassVal/
    - https://pypi.org/project/wizzWifi/
