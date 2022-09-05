@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Akshay
 - 🌱 I am currently studying at srinivas institute of technology
--  languages-c,python,ruby,Html,Hdl.
--  learning- javascript,ethical hacking, react web development.   
+-  languages-c,python,java,Html,Hdl.
+-  learning- javascript,ethical hacking, react web development, Spring full stack development.   
 - contact me: akshaysavanoor@gmail.com
 - Article's & Python libraries 
    -  Remote access  : https://www.geeksforgeeks.org/remote-access-in-ethical-hacking
