@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Akshay
 - 🌱 I am currently studying at srinivas institute of technology
--  skills-python, java, java script, Html, Hdl.
--  learning-  Vulnerability assessment & penetration testing, react.js, Spring, Data structure and Algorithms.   
+-  skills-python, java, Html, Hdl.
+-  learning-  Vulnerability assessment & penetration testing, java script, Spring, Data structure and Algorithms.   
 - contact me: akshaysavanoor@gmail.com
 - Article's & Python libraries 
    -  Remote access  : https://www.geeksforgeeks.org/remote-access-in-ethical-hacking
